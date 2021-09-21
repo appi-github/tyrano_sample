@@ -4,6 +4,8 @@
 
 ティラノスクリプトのサンプルコード。
 
+* [テストプレイ](https://appi-github.github.io/tyrano_sample/)
+
 ## ライセンス
 
 スクリプトに関してはCC0。ティラノスクリプトについてはMITライセンス。
