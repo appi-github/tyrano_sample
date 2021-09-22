@@ -3,6 +3,7 @@
 [title name="走るか寝るかするメロス"]
 [hidemenubutton]
 [wait time=200]
+[freeimage layer="base"]
 
 「走るか寝るかするメロス」[l][r]
 
@@ -22,6 +23,9 @@
 *tag_sleep
 
 [cm]
+
+[bg storage=sleep.jpg time=500]
+
 メロスは死んだように深く眠った。[l][r]
 勇者は、ひどく赤面した。[r]
 
@@ -30,6 +34,8 @@
 [jump target=*start]
 
 *tag_run
+
+[bg storage=run.jpg time=500]
 
 [cm]
 メロスは黒い風のように走った。[l][r]
