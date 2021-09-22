@@ -8,6 +8,7 @@
 
 ## ライセンス
 
-スクリプトに関してはCC0。ティラノスクリプトについてはMITライセンス。
+ここで作成されたスクリプト(`first.ks`)に関してはCC0。ティラノスクリプトについては[配布元](https://tyrano.jp/)のライセンスに従います。`docs/bgimage`以下にあるファイルは、Pexcelsからダウンロードしたものです。
 
-* [ティラノスクリプト公式サイト](https://tyrano.jp/)
+* `run.jpg` by Maksim Romashkin
+* `sleep.jpg` by Andrea Piacquadio
